@@ -1,0 +1,14 @@
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\thiag\Desktop\DesafioDio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
